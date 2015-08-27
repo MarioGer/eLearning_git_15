@@ -1,8 +1,10 @@
 include libs for application
+include libs for feature1
 
 Entry:
 	load application config
 	load another config file
+	load feature1
 	
 	run application
 	
