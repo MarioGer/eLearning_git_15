@@ -1,0 +1,7 @@
+include libs for application
+
+Entry:
+	load application config
+	run application
+	
+	
