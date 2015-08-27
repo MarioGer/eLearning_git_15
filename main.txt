@@ -2,6 +2,8 @@ include libs for application
 
 Entry:
 	load application config
+	load another config file
+	
 	run application
 	
 	
